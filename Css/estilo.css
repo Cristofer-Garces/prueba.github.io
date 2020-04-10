@@ -1,0 +1,77 @@
+* {
+	background:#90EE90;
+}
+
+h1 {
+	padding:10px;
+	border:2px solid #556B2F;
+	background:url(fondo.jpg);
+	color:#7CFC00;
+	font-size:30px;
+	
+}
+
+a {
+	background-color:black;
+	border:5px solid #556B2F;
+	background:#8FBC8F;
+	display:inline-block;
+	padding:10px;
+}
+
+p {
+	text-align:center;
+    color:black;
+
+
+}
+
+img {
+	width:30%;
+}
+
+
+.turismo {
+	width: 25%;
+	padding:5px;
+	border:2px solid #556B2F;
+	display:inline-block;
+}
+
+.info {
+	width:50%;
+	position:relative;
+	top: ;
+	bottom:250px; 
+	right:;
+	left:600px;
+	display:inline-block;
+}
+
+.footer {
+/*Medidas y posicion*/
+	width:20%;
+	position:relative;
+	top:100px;
+	bottom:;
+	right:;
+	left:400px;
+/*Colores*/
+	text-align:center;
+	background:url(fondo.jpg);
+	color:#7CFC00;
+	border:2px solid #556B2F;
+	padding:10px;
+	display:inline-block;
+
+}
+
+.logo {
+	width:15%;
+	position:relative;
+	top:200px;
+	bottom:;
+	right:;
+	left:;
+	opacity:0.3;
+}
